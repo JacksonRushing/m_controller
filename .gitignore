@@ -301,3 +301,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.tlog
+build/vc140.idb
+include/GLUT/glut.h
+lib/glut32.lib
+*.sln
+Xinput Test.vcxproj
